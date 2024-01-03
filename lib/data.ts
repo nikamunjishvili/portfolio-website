@@ -35,30 +35,38 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "Graduated bootcamp",
-    location: "Miami, FL",
-    description:
-      "I graduated after 6 months of studying. I immediately found a job as a front-end developer.",
+    title: "Middle Mobile Developer",
+    location: "Tbilisi/Georgia",
+    description: "I worked as a Mobile Developer in interesting AI startup!!",
     icon: React.createElement(LuGraduationCap),
     date: "2019",
   },
   {
-    title: "Front-End Developer",
-    location: "Orlando, FL",
+    title: "Middle Web && Mobile Developer",
+    location: "Tbilisi/Georgia",
     description:
-      "I worked as a front-end developer for 2 years in 1 job and 1 year in another job. I also upskilled to the full stack.",
-    icon: React.createElement(CgWorkAlt),
-    date: "2019 - 2021",
+      "I'm working as a Web && Mobile Developer for 2 years in 1 job and 1 year in another job. I also upskilled to the full stack.",
+      icon: React.createElement(CgWorkAlt),
+      date: "2019 - 2021",
   },
   {
-    title: "Full-Stack Developer",
-    location: "Houston, TX",
+    title: "Web Development Lecturer",
+    location: "Tbilisi/Georgia",
     description:
-      "I'm now a full-stack developer working as a freelancer. My stack includes React, Next.js, TypeScript, Tailwind, Prisma and MongoDB. I'm open to full-time opportunities.",
-    icon: React.createElement(FaReact),
-    date: "2021 - present",
+      "Helping out beginners with simple tasks and understanding fundamentals!!",
+      icon: React.createElement(FaReact),
+      date: "2021 - present",
   },
-] as const;
+  {
+    title: "Web Development Mentor",
+    location: "Tbilisi/Georgia",
+    description:
+      "Helping out beginners with simple tasks and understanding fundamentals!!",
+      icon: React.createElement(FaReact),
+      date: "2021 - present",
+  },
+];
+
 
 export const projectsData = [
   {
