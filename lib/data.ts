@@ -39,7 +39,7 @@ export const experiencesData = [
     location: "Tbilisi/Georgia",
     description: "I worked as a Mobile Developer in interesting AI startup!!",
     icon: React.createElement(LuGraduationCap),
-    date: "2019",
+    date: "2023",
   },
   {
     title: "Middle Web && Mobile Developer",
@@ -47,7 +47,7 @@ export const experiencesData = [
     description:
       "I'm working as a Web && Mobile Developer for 2 years in 1 job and 1 year in another job. I also upskilled to the full stack.",
       icon: React.createElement(CgWorkAlt),
-      date: "2019 - 2021",
+      date: "2022 - present",
   },
   {
     title: "Web Development Lecturer",
@@ -55,7 +55,7 @@ export const experiencesData = [
     description:
       "Helping out beginners with simple tasks and understanding fundamentals!!",
       icon: React.createElement(FaReact),
-      date: "2021 - present",
+      date: "2022 - present",
   },
   {
     title: "Web Development Mentor",
@@ -63,7 +63,7 @@ export const experiencesData = [
     description:
       "Helping out beginners with simple tasks and understanding fundamentals!!",
       icon: React.createElement(FaReact),
-      date: "2021 - present",
+      date: "2022 - present",
   },
 ];
 
